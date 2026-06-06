@@ -1,10 +1,9 @@
 {
     "id" : "io.github.ans_ibrahim.Memento",
     "runtime" : "org.gnome.Platform",
-    "runtime-version" : "49",
+    "runtime-version" : "50",
     "sdk" : "org.gnome.Sdk",
     "command" : "io.github.ans_ibrahim.Memento",
-    "separate-locales" : true,
     "finish-args" : [
         "--share=network",
         "--share=ipc",
@@ -21,8 +20,8 @@
                 {
                     "type" : "git",
                     "url" : "https://github.com/ans-ibrahim/Memento.git",
-                    "commit" : "fbfbc75aee4fd917db71a1129f1868c57637c926",
-                    "tag" : "v1.2.0"
+                    "commit" : "eed240e4b4a99e7baf263fc175cfc5d96003c304",
+                    "tag" : "v1.3.0"
                 }
             ]
         }
